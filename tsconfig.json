@@ -1,0 +1,9 @@
+{
+    "include": ["./customdi/live/**/*"],
+    "compilerOptions": {
+        "target": "ES6",
+        "moduleResolution": "node",
+        "outDir": "dist",
+        "allowSyntheticDefaultImports": true,
+    }
+}

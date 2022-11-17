@@ -1,0 +1,122 @@
+[
+    {
+        "firstName": "Troy",
+        "lastName": "Benson",
+        "status": "full time",
+        "paymentHistory": [
+            2320,
+            3615,
+            2930
+        ]
+    },
+    {
+        "firstName": "Corey",
+        "lastName": "Patton",
+        "status": "full time",
+        "paymentHistory": [
+            2960,
+            4745,
+            3220
+        ]
+    },
+    {
+        "firstName": "Marie",
+        "lastName": "Fernandez",
+        "status": "full time",
+        "paymentHistory": [
+            4435,
+            3330,
+            4475
+        ]
+    },
+    {
+        "firstName": "Shannon",
+        "lastName": "Thomas",
+        "status": "full time",
+        "paymentHistory": [
+            2095,
+            2795,
+            2425
+        ]
+    },
+    {
+        "firstName": "Timothy",
+        "lastName": "Park",
+        "status": "full time",
+        "paymentHistory": [
+            4325,
+            3380,
+            4780
+        ]
+    },
+    {
+        "firstName": "Tia",
+        "lastName": "Powers",
+        "status": "contractor",
+        "paymentHistory": [
+            5530,
+            5590,
+            6090
+        ]
+    },
+    {
+        "firstName": "Thomas",
+        "lastName": "Chavez",
+        "status": "full time",
+        "paymentHistory": [
+            7975,
+            8775,
+            6715
+        ]
+    },
+    {
+        "firstName": "Debbie",
+        "lastName": "Richardson",
+        "status": "full time",
+        "paymentHistory": [
+            9285,
+            8185,
+            7700
+        ]
+    },
+    {
+        "firstName": "William",
+        "lastName": "Sellers",
+        "status": "hourly",
+        "paymentHistory": [
+            3600,
+            3980,
+            2870
+        ]
+    },
+    {
+        "firstName": "David",
+        "lastName": "Singleton",
+        "status": "contractor",
+        "paymentHistory": [
+            6635,
+            10960,
+            9920
+        ]
+    },
+    {
+        "firstName": "Leonard",
+        "lastName": "Grant",
+        "status": "contractor",
+        "paymentHistory": [
+            8860,
+            6125,
+            7020
+        ]
+    },
+    {
+        "firstName": "Michael",
+        "lastName": "Burke",
+        "status": "hourly",
+        "paymentHistory": [
+            1870,
+            1355,
+            1985
+        ]
+    }
+]
